@@ -9,7 +9,8 @@ use Illuminate\Notifications\Notifiable;
 use Spatie\Permission\Models\Role;
 use Spatie\Permission\Traits\HasRoles;
 use App\Notifications\VerifyEmail;
-use Laravel\Passport\HasApiTokens;
+use Laravel\Sanctum\HasApiTokens;
+
 
 class User extends Authenticatable implements MustVerifyEmail
 {
