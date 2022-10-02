@@ -61,7 +61,10 @@ composer install
 npm install
 
 cp .env.example .env
-sail up -d
+sail up
+```
+From a new console:
+```sh
 npm run build && npm run dev
 ```
 
