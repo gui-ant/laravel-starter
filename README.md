@@ -62,9 +62,11 @@ npm install
 
 cp .env.example .env
 sail up
+
 ```
 From a new console:
 ```sh
+sail php artisan key:generate
 npm run build && npm run dev
 ```
 
