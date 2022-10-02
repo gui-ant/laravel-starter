@@ -42,6 +42,7 @@ Main frameworks/libraries used in the project:
 - Laravel Breeze
 - Inertia.js
 - [Laravel Vue i18n](https://github.com/xiCO2k/laravel-vue-i18n)
+- [Laravel-permission](https://spatie.be/docs/laravel-permission/v5/introduction)
 
 <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
