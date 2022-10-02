@@ -41,13 +41,15 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+-   Laravel Sail (serving MySQL & Mailhog)
+-   Laravel Breeze 
+-   Inertia.js
+
 <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-<img alt="Interia JS" src="https://camo.githubusercontent.com/4878fede53b52325c4f198c155c6448f0fd8592db17419098bee7de1b306b87c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e65727469612d6a732d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e6572746961266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/inertia-js-%231572B6.svg?style=for-the-badge&amp;logo=inertia&amp;logoColor=white" style="max-width: 100%;">
 
--   Laravel Sail (serving MySQL & Mailhog)
--   Laravel Breeze
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
