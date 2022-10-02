@@ -5,7 +5,7 @@
     <img src="resources/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Laravel 9.* Starter Template</h3>
+  <h3 align="center">Laravel 9 Starter Template</h3>
 
   <p align="center">
     An awesome Laravel 9.* template to jumpstart your projects!
