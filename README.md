@@ -69,6 +69,8 @@ sail up
 From a new console:
 ```sh
 sail php artisan key:generate
+sail php artisan migrate:fresh --seed
+
 npm run build && npm run dev
 ```
 
