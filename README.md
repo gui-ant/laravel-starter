@@ -1,10 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-    [![Forks][forks-shield]][forks-url]
-    [![Stargazers][stars-shield]][stars-url]
-    [![Issues][issues-shield]][issues-url]
-    <br />
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="resources/images/logo.png" alt="Logo" width="80" height="80">
   </a>
@@ -43,7 +39,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 -   Laravel Sail (serving MySQL & Mailhog)
--   Laravel Breeze 
+-   Laravel Breeze
 -   Inertia.js
 
 <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> 
@@ -103,7 +99,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Guilherme Antunes - [@linkedin](https://www.linkedin.com/in/guilherme-antunes-a53230137/) - gantunes90@gmail.com
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
