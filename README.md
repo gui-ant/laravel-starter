@@ -5,10 +5,10 @@
     <img src="resources/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Laravel Starter Template</h3>
+  <h3 align="center">Laravel 9 Starter Template</h3>
 
   <p align="center">
-    An awesome Laravel template to jumpstart your projects!
+    An awesome Laravel 9.* template to jumpstart your projects!
   </p>
 </div>
 
@@ -38,9 +38,10 @@ Main frameworks/libraries used in the project:
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
--   Laravel Sail (serving MySQL & Mailhog)
--   Laravel Breeze
--   Inertia.js
+- Laravel Sail (serving MySQL & Mailhog)
+- Laravel Breeze
+- Inertia.js
+- [Laravel Vue i18n](https://github.com/xiCO2k/laravel-vue-i18n)
 
 <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -61,7 +62,12 @@ composer install
 npm install
 
 cp .env.example .env
-sail up -d
+sail up
+
+```
+From a new console:
+```sh
+sail php artisan key:generate
 npm run build && npm run dev
 ```
 
